@@ -32,4 +32,12 @@ p {
     margin-right: auto;
 }
 
-.row {
+.jcenter {
+    margin: auto;
+    width: 75%;
+}
+
+.joutline {
+    outline-style: solid;
+
+}
