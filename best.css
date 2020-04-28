@@ -13,3 +13,23 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    padding: 25px 25px 10px 25px;
+    text-align: center;
+}
+
+.jicon {
+    font-size: 72px;
+    text-align: center;
+}
+
+a {
+    color: black;
+}
+
+p {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
