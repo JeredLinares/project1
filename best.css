@@ -42,3 +42,12 @@ p {
     outline-style: solid;
 
 }
+
+.bggreen {
+    background: green;
+}
+
+h6 {
+    padding: 20px;
+    color: yellow;
+}
